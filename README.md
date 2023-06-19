@@ -2,4 +2,4 @@
 # 2、ordinals brc20代币打新脚本
 # 3、ordinals NFT 市场marketplace开发
 
-# +V:zionboy
+# +V:zionboy 备注：github
